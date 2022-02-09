@@ -11,7 +11,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<hadoop.version>3.1.1</hadoop.version>
+		<hadoop.version>3.1.4</hadoop.version>
 		<hdp.orc.version>1.5.1.3.1.0.0-78</hdp.orc.version>
 	</properties>
 
